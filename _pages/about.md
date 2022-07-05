@@ -2,26 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD Student in CS</b> @ <a href='https://di.ku.dk/english/'>DIKU, University of Copenhagen</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Universitetsparken 1</p>
+    <p>DK-2100 Copenhagen Ø</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-WORK IN PROGRESS!
+Welcome to my personal webpage!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My full name is Joel Daniel Andersson. I am a PhD student at the University of Copenhagen advised by [Rasmus Pagh](https://rasmuspagh.net/). It is too early to call in what direction the research will go, but it is expected to fall within the domain of "differential privacy. I will conduct the research as a member of the [Providentia](https://www.rasmuspagh.net/providentia/) project, a part of [BARC](https://barc.ku.dk/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to starting my PhD, I received my master's degree in Engineering Physics from Lund Unversity in 2020. My [master's thesis](https://lup.lub.lu.se/student-papers/search/publication/8998721) was written at CERN and involved designing a linear framework for orbit correction in HL-LHC. After graduating and up until recently I was a Baseband Software Engineer at Ericsson, implementing algorithms for 5G in Downlink L1.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time I enjoy running, live music, and craft beer.
